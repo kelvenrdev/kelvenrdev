@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Kelvenr Dev](https://github-readme-stats.vercel.app/api?username=kelvenrdev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kelven Dev](https://github-readme-stats.vercel.app/api?username=kelvendev&show_icons=true&theme=transparent)
+
+
+
+![Minhas Habilidades](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvendev&hide=javascript,html)
